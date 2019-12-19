@@ -1,2 +1,2 @@
-# Spam-Detecttion
+# Spam-Detection
 Implemented in Pyspark
